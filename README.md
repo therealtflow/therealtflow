@@ -1,4 +1,3 @@
-### Hi there 👋
 # 💫 About Me:
 👋 My name is Tyler, I am a CS student at UNCC<br>👀 I’m interested in starting my career in a Technology Development Program or as a Junior Software Engineer<br>🌱 I'm currently working on project design & development<br>📫 Reach me at tylerrflowers@gmail.com or tflowe11@uncc.edu
 
@@ -13,13 +12,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=therealtflow&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=therealtflow&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=therealtflow&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=therealtflow&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=therealtflow&icon=2&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
